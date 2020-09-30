@@ -1,0 +1,1 @@
+/*Ajouter une route /palindromequi prendra un mot en paramètre. Un message devra être retourné à l'utilisateur si le mot est un palindrome. Vous pouvez vous inspirer de la correction de l'exercice: https://github.com/AbsoluteVirtueXI/alyra-courses/blob/master/exercices/node/correction-exercices-cmd/palindromeChecker.js */
